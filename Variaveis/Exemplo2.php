@@ -6,13 +6,17 @@ $nomeCompleto = "";
 $nome1 = "Joao";
 $nome2 = "Bruno";
 
+
 	echo $nome2;
 	echo "<br/>";
 	echo $nome1;
 
+isset($nome);
+
 unset($nome1);
 
-echo $nome2;
+echo $nome1;
+
 
 
 ?>
