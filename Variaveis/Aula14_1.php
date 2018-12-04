@@ -11,8 +11,10 @@ $nome2 = "Bruno";
 	echo "<br/>";
 	echo $nome1;
 
+//verifica se a variavel existe retornando valor boleano false ou true.
 isset($nome);
 
+//e utilizado para destruir uma variavel
 unset($nome1);
 
 echo $nome1;
