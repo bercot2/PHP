@@ -21,7 +21,7 @@ $valortotal += 100; // Recebe o valor da variavel anterior + 100
 
 $valortotal += 25; // Recebe o valor da variavel anterior + 25
 
-$valortotal *= .9; // pega 90% do valor das somas da mesma variavel a cima 0+100+25 = 125 - 90% = 112.5
+$valortotal *= .9; // pega 90% do valor das somas da mesma variavel a cima 0+100+25 = 125 -- 90% = 112.5
 
 echo "Valor Com desconto: ".$valortotal."<br/>";
 
